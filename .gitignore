@@ -1,0 +1,20 @@
+# Build output
+**/bin/
+**/obj/
+/app/
+/.local-build-backup/
+
+# IDE and local user settings
+.vs/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+
+# Generated check files and temporary output
+/evidence/check-files/
+.des-*.tmp
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini

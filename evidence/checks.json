@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-11-26T14:05:06.191458+04:00",
+  "known_vector": true,
+  "random_blocks": 128,
+  "first_round_matches": true,
+  "files": [
+    {
+      "file": "a1024.txt",
+      "bytes": 1024,
+      "encrypted_bytes": 1040,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "pattern2048.bin",
+      "bytes": 2048,
+      "encrypted_bytes": 2064,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "sample.bmp",
+      "bytes": 12342,
+      "encrypted_bytes": 12352,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "sample.docx",
+      "bytes": 36770,
+      "encrypted_bytes": 36784,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "sample.xlsx",
+      "bytes": 6479,
+      "encrypted_bytes": 6488,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-0.bin",
+      "bytes": 0,
+      "encrypted_bytes": 16,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-1.bin",
+      "bytes": 1,
+      "encrypted_bytes": 16,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-7.bin",
+      "bytes": 7,
+      "encrypted_bytes": 16,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-8.bin",
+      "bytes": 8,
+      "encrypted_bytes": 24,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-9.bin",
+      "bytes": 9,
+      "encrypted_bytes": 24,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-15.bin",
+      "bytes": 15,
+      "encrypted_bytes": 24,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-16.bin",
+      "bytes": 16,
+      "encrypted_bytes": 32,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-17.bin",
+      "bytes": 17,
+      "encrypted_bytes": 32,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-1023.bin",
+      "bytes": 1023,
+      "encrypted_bytes": 1032,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-1024.bin",
+      "bytes": 1024,
+      "encrypted_bytes": 1040,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    },
+    {
+      "file": "boundary-1025.bin",
+      "bytes": 1025,
+      "encrypted_bytes": 1040,
+      "restored_exactly": true,
+      "matches_library_des_cbc": true
+    }
+  ],
+  "fresh_iv": true,
+  "password_file": true,
+  "invalid_padding_preserves_output": true,
+  "invalid_size_rejected": true,
+  "same_path_rejected": true,
+  "cancellation_preserves_output": true,
+  "gui_tested": false
+}

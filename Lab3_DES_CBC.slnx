@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/checks/">
+    <Project Path="checks/Checks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/DesLab.csproj" />
+  </Folder>
+</Solution>
